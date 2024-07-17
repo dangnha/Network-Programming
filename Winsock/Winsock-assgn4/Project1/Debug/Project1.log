@@ -1,0 +1,3 @@
+﻿  main.cpp
+Project1.rc(4): fatal error RC1015: cannot open include file 'resource.h'.
+  
